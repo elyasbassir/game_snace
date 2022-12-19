@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    margin-top: 35px;
+    position: relative;
+height:600px;
+    width: 900px;
+    left:17%;
+}
+.click{
+    position: relative;
+    margin-left: 5px;
+    display: inline-block;
+    width: 5%;
+    height: 5%;
+    border-radius: 2px;
+    background-color: darkslategray;
+}
+
